@@ -1,0 +1,15 @@
+{
+    "name": "bahriddin/for-aka-doston",
+    "autoload": {
+        "psr-4": {
+            "Bahriddin\\ForAkaDoston\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "bahriddin",
+            "email": "darkshadeuz@gmail.com"
+        }
+    ],
+    "require": {}
+}
